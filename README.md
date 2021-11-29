@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jack52896
 - 👀 欢迎来到我的github个人主页
 - 🌱 都是个人编写的项目，跟紧时代背景、采用最新的技术栈、喜欢阅读源码
-- 💞️ who is next star b站不定时分享技术：工程师小z
+- 💞️ who is next star 
 - 📫 System.out.println("Hello github")
 
 <!---
