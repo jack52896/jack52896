@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jack52896
-- 👀 欢迎来到我的github个人主页
-- 🌱 都是个人编写的项目，跟紧时代背景、采用最新的技术栈、喜欢阅读源码
-- 💞️ who is next star 
-- 📫 System.out.println("Hello github")
+## 我是杰桑 🗾
 
-<!---
-jack52896/jack52896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🏡 作品：<a href="https://github.com/jack52896/chat_fast_connect" target="_blank">轻量级web服务框架</a>
+
+## 今年汇总 ✨
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=jack52896&theme=xcode" /> </div>
