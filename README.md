@@ -1,7 +1,10 @@
-## 我是杰桑 🗾
+i want to try my best to build tools with this world.
 
-- 🏡 作品：<a href="https://github.com/jack52896/chat_fast_connect" target="_blank">轻量级web服务框架</a>
+list for my project:
 
-## 今年汇总 ✨
+(1) chat_pc :opening services build expand web server.
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=jack52896&theme=xcode" /> </div>
+(2) winter-framework: try to implemented the spring relevant features.
+
+(3) chatgpt_brower_api: chatgpt api by brower. 
+
